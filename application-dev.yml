@@ -10,6 +10,6 @@ management:
           - '*'
 
 greeting-service:
-  greeting: "Olá"
+  greeting: "Ola"
   default-value: "world"
 

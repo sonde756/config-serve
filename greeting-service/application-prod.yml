@@ -12,6 +12,6 @@ management:
 
 
 greeting-service:
-  greeting: "Cia"
+  greeting: "pronto"
   default-value: "Mondo"
 
